@@ -5,4 +5,3 @@ echo "This file was created inside the container." > /github/workspace/output.tx
 
 time=$(date)
 echo "time=$time" >> $GITHUB_OUTPUT
-
